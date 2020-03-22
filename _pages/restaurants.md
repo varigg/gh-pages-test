@@ -15,13 +15,11 @@ This is a list of restaurants currently offering pickup or delivery. Based on Br
 
 
 <b>Redwood Pizzeria</b>: Take out --curbside pickup available if you ask
-
 * [Website](http://www.redwoodpizza.com/)    
 * Phone: [(831) 335-1500](tel:8313351500) 
 
 
 <b>Empire Grill</b>: Curbside Service only
-
 * [Website](http://empire-grille.com/)
 * Phone: [(831)-704-2130](tel:8317042130)
 
