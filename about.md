@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 nav: true
+published: true
 ---
 
 Build with Jekyll ([jekyllrb.com](https://jekyllrb.com/)) using Minima and hosted by [Github](github.com).
